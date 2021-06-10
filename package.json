@@ -1,0 +1,19 @@
+{
+  "name": "demo-project",
+  "version": "1.0.0",
+  "description": "node.js test",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/redlian/npm.git"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
